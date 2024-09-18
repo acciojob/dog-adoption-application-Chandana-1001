@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+#submit
+{
+	background-color:skyblue;
+}
+#name,#phone,#address,#checkbox,#multiSelect
+{
+	border:1px solid black;
+	padding:5px;
+	color:black;
+	font-family:aliceblue;
+}
+body{
+	background-color:grey;
+}
